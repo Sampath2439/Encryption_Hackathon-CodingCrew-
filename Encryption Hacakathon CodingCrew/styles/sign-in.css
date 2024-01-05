@@ -1,0 +1,267 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.sign-in-gv8 {
+  width: 100%;
+  height: 98.2rem;
+  position: relative;
+  overflow: hidden;
+  background-color: #ffffff;
+}
+.sign-in-gv8 .backgroundcomplete-PCG {
+  width: 79.2rem;
+  height: 74.478rem;
+  position: absolute;
+  left: 0;
+  top: 15rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.sign-in-gv8 .rectangle-1-d6c {
+  width: 91.3rem;
+  height: 65.7rem;
+  position: absolute;
+  left: 56rem;
+  top: 22.4rem;
+  border: solid 0.3rem #000000;
+  box-sizing: border-box;
+  background-color: #c1d6ff;
+  border-radius: 4.6rem;
+}
+.sign-in-gv8 .rectangle-2-mtx {
+  width: 37.8rem;
+  height: 10rem;
+  position: absolute;
+  left: 61.8rem;
+  top: 71.9rem;
+  background-color: #1c32a7;
+  border-radius: 3.9rem;
+}
+.sign-in-gv8 .rectangle-3-EXe {
+  width: 37.8rem;
+  height: 10rem;
+  position: absolute;
+  left: 105.1rem;
+  top: 71.9rem;
+  background-color: #1c32a7;
+  border-radius: 3.9rem;
+}
+.sign-in-gv8 .sign-in-ihi {
+  width: 12.3rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 74.5rem;
+  top: 74rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.44;
+  color: #ffffff;
+  font-family: Istok Web, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-in-gv8 .rectangle-4-w4g {
+  width: 72.6rem;
+  height: 9.2rem;
+  position: absolute;
+  left: 65.4rem;
+  top: 34.6rem;
+  background-color: #f0f0f0;
+  border-radius: 3.7rem;
+}
+.sign-in-gv8 .rectangle-5-cwW {
+  width: 72.6rem;
+  height: 9.2rem;
+  position: absolute;
+  left: 65.4rem;
+  top: 52.6rem;
+  background-color: #f0f0f0;
+  border-radius: 3.7rem;
+}
+.sign-in-gv8 .email-GWG {
+  width: 7.5rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 70.5rem;
+  top: 36.9rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.44;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Istok Web, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-in-gv8 .email-gpt {
+  width: 7.6rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 69.8rem;
+  top: 29.2rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Javanese Text, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-in-gv8 .password-jHN {
+  width: 12.9rem;
+  height: 4.1rem;
+  position: absolute;
+  left: 70.2rem;
+  top: 46.6rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.2575;
+  color: #000000;
+  font-family: Javanese Text, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-in-gv8 .password-B9N {
+  width: 13.6rem;
+  height: 4.7rem;
+  position: absolute;
+  left: 70.5rem;
+  top: 55.3rem;
+  font-size: 3.2rem;
+  font-weight: 400;
+  line-height: 1.44;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Istok Web, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-in-gv8 .crew-bank-qDv {
+  width: 29.8rem;
+  height: 7.7rem;
+  position: absolute;
+  left: 22.8rem;
+  top: 6.3rem;
+  font-size: 6.4rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: #000000;
+  font-family: Itim, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-in-gv8 .home-sAc {
+  width: 7.6rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 94.1rem;
+  top: 7.6rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Itim, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-in-gv8 .about-us-XFA {
+  width: 12.2rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 117.1rem;
+  top: 7.6rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Itim, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-in-gv8 .profile-B4p {
+  width: 8.7rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 104.6rem;
+  top: 7.6rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Itim, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-in-gv8 .contact-us-372 {
+  width: 14.4rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 131.3rem;
+  top: 7.6rem;
+  font-size: 3rem;
+  font-weight: 400;
+  line-height: 1.2;
+  color: rgba(0, 0, 0, 0.5);
+  font-family: Itim, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-in-gv8 .shadow-JHr {
+  width: 45.37rem;
+  height: 3.5554rem;
+  position: absolute;
+  left: 1.265rem;
+  top: 79.6442rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.sign-in-gv8 .character2-zgU {
+  width: 13.5232rem;
+  height: 50.4791rem;
+  position: absolute;
+  left: 28.2991rem;
+  top: 31.39rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.sign-in-gv8 .screen-tmr {
+  width: 16.2682rem;
+  height: 40.3627rem;
+  position: absolute;
+  left: 16.8813rem;
+  top: 27.152rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.sign-in-gv8 .character1-chr {
+  width: 10.4676rem;
+  height: 41.012rem;
+  position: absolute;
+  left: 7.4243rem;
+  top: 40.8572rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.sign-in-gv8 .sign-up-YrQ {
+  width: 14rem;
+  height: 5.8rem;
+  position: absolute;
+  left: 118.8rem;
+  top: 74.4rem;
+  font-size: 4rem;
+  font-weight: 400;
+  line-height: 1.44;
+  color: #ffffff;
+  font-family: Istok Web, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.sign-in-gv8 .secure-TCg {
+  width: 11.8rem;
+  height: 11.6rem;
+  position: absolute;
+  left: 8.5rem;
+  top: 6.3rem;
+  object-fit: cover;
+  vertical-align: top;
+}
